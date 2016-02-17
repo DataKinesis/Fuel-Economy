@@ -1,0 +1,10 @@
+name: Fuel-Economy
+account: abhaysingh
+server: shinyapps.io
+appId: 84035
+bundleId: 375002
+url: https://abhaysingh.shinyapps.io/Fuel-Economy/
+when: 1455740825.21143
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
